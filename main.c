@@ -2,9 +2,6 @@
 #include <assert.h>
 #include "Color_Pair.h"
 
-
-
-
 void testNumberToPair(int pairNumber,
     enum MajorColor expectedMajor,
     enum MinorColor expectedMinor)
